@@ -1,224 +1,224 @@
 {
   "fileType": "crypto-contract-workstation-manifest",
   "schemaVersion": 1,
-  "updatedAt": 1793884927289,
+  "updatedAt": 1793885181712,
   "files": [
     {
       "path": "data/market-history/BTCUSDT/1m/2024/04.json.gz",
-      "checksum": "0d350432ecfee0475261c353d6ee874d5c37f6ad14d3d4c4a2d99c8438540f73",
-      "size": 1669246,
+      "checksum": "e06b15c1333e40c63864a80a38163e836d6de56d562fdda3d67a95de088a8a46",
+      "size": 1669217,
       "category": "market-data",
-      "updatedAt": 1793881292229
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/05.json.gz",
-      "checksum": "791e3ad3714215deb94ee9975c222966bd4ceb85c9aade62586e7a2ab334c77e",
-      "size": 1698992,
+      "checksum": "882a39b42b937680a5d8a76762e34c2e7f233f87ada05181bc9603f8cdf5265b",
+      "size": 1698961,
       "category": "market-data",
-      "updatedAt": 1793881300380
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/06.json.gz",
-      "checksum": "f20f4a6d369cf117be13d20e1ffac848003c9a3ab303e1cef65276b6a9048209",
-      "size": 1605912,
+      "checksum": "2c557885079c7f3ecd3d224269915d35b3d7b55833bfa2b04c5301aa4fb81897",
+      "size": 1605883,
       "category": "market-data",
-      "updatedAt": 1793881273188
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/07.json.gz",
-      "checksum": "27fdaaac34e32c16458cc162aca19602177e105a6c78aeed116eb620bd602e03",
-      "size": 1707785,
+      "checksum": "e046799e4a25e85817d501e243dc4a140a3f61d17ab8921ee86914926b32e2ad",
+      "size": 1707764,
       "category": "market-data",
-      "updatedAt": 1793881283653
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/08.json.gz",
-      "checksum": "128b753a10550e0b1337c69cd6aa3bec2dca45259c8f2b9e9e201c4653470280",
-      "size": 1713665,
+      "checksum": "1da3ecf69b42d9e4eba5d1ef2b35d22dfbe57dae1500a9ca8fc75e223f21e4da",
+      "size": 1713636,
       "category": "market-data",
-      "updatedAt": 1793881254503
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/09.json.gz",
-      "checksum": "cc6cd490f8d65d43b28bfcb495312ca5231723fde490db8890b1377c78e8b0e6",
-      "size": 1636022,
+      "checksum": "917ab054f9825fbe15db927a1e101bf5bdd12784c34529531f4f3f2fd6282a49",
+      "size": 1635993,
       "category": "market-data",
-      "updatedAt": 1793881264482
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/10.json.gz",
-      "checksum": "1019e80626dd8fb2f8e68091a814a5596a43dce8fbaeb6d90482d45d1561e1b1",
-      "size": 1680082,
+      "checksum": "7393d0b41810a18e4b21035de5efe22e43825912d3a2cd8808e2f89e7a98de00",
+      "size": 1680051,
       "category": "market-data",
-      "updatedAt": 1793881237490
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/11.json.gz",
-      "checksum": "cee995743e1d2f4e84119a045b802242a2c7be45a91edb005ed2714102f2e95e",
-      "size": 1676599,
+      "checksum": "1a1038bdec91b1d9762b40563a7d1bbe8bf0f2638b9850411019681c6a50a3c2",
+      "size": 1676567,
       "category": "market-data",
-      "updatedAt": 1793881245405
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2024/12.json.gz",
-      "checksum": "153321ccb24a9772d74b017cfb229583b3c6ae6608a194b856e1ed41c56ec991",
-      "size": 1727117,
+      "checksum": "3cd95fd03a738f6ec1483ae296f6062ff4b615b2eee1e2ec179616018dd0490a",
+      "size": 1727087,
       "category": "market-data",
-      "updatedAt": 1793880534375
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/01.json.gz",
-      "checksum": "7b390fe011c880b2e9588851013bdc53fb07c8f4aa79402f3186d3a262d62b36",
-      "size": 1716354,
+      "checksum": "5df4aa543cdecb349808395617c0c997da1aaec2bbaf93d6ac76baa736af9fa7",
+      "size": 1716327,
       "category": "market-data",
-      "updatedAt": 1793880902902
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/02.json.gz",
-      "checksum": "45929726a00394b61fb2156a5cc9a4d43b6fd699e4dd157a7595f287a9282f2a",
-      "size": 1542820,
+      "checksum": "6cb5e1c8b0b4039d0ce6d425a9fa4355d9031b234b75434dfeda96b8b305cf46",
+      "size": 1542789,
       "category": "market-data",
-      "updatedAt": 1793880349287
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/03.json.gz",
-      "checksum": "0b08cf50c9bd952a8564fd210e09c6f5a6b2ba94a448c37df78d65f77f024735",
-      "size": 2978279,
+      "checksum": "9d20d8450144bf235ef355b4231f70b0b168f694e34bbd45c05401e2a6f034a8",
+      "size": 1719064,
       "category": "market-data",
-      "updatedAt": 1793881468254
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/04.json.gz",
-      "checksum": "753d4a7609e5facebd0b45ef4d31dd8fef9687e3aa460b7abf7ff0d94a3be96d",
-      "size": 2863963,
+      "checksum": "b6f39c7268fb9d4a4d70d0e6edd09b9073f2c460cf4f05602aa81eae04118c58",
+      "size": 1653217,
       "category": "market-data",
-      "updatedAt": 1793881479469
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/05.json.gz",
-      "checksum": "c82bd0c3c95b0eb0172cd36aeede48ca39979d8bc646f0b7d67accf417ec15d6",
-      "size": 2981819,
+      "checksum": "eecd33f568a38d7462d3e4936210c042f7d88e0cde135b08fdaef7e5b4c9a644",
+      "size": 1700952,
       "category": "market-data",
-      "updatedAt": 1793881490776
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/06.json.gz",
-      "checksum": "7e500500d2d42a6ee6f38d36cd035887e5d1e8f39db372cfa16e82ae2ada6efd",
-      "size": 2845445,
+      "checksum": "abfaa879888f5a954c7b4c8078bf79c99afbd12bd18fa594d9e61f73f66fc7a7",
+      "size": 1621706,
       "category": "market-data",
-      "updatedAt": 1793881503230
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/07.json.gz",
-      "checksum": "ba8b83f9d976f8c1c54420829c95858e89767de3588fe6d408641f07db9199db",
-      "size": 2949466,
+      "checksum": "5b4f1760ee9d9ee1b1fea2fc2cb19e70fb6d91beff8ba5ade80bf3c711970bcb",
+      "size": 1672250,
       "category": "market-data",
-      "updatedAt": 1793881514381
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/08.json.gz",
-      "checksum": "9f1570362388ea18a67a3bb43bf8fb21eeaa9becfa366a149bdfc206b0facaeb",
-      "size": 2940651,
+      "checksum": "e9e9c654e4acc98513941ab4163c60c15c8809acb88ac5b0426efdfdfa339c0c",
+      "size": 1679381,
       "category": "market-data",
-      "updatedAt": 1793881525824
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/09.json.gz",
-      "checksum": "454be8951e1dd74650a43da740ccafec8b1a78fd89d2583e7b26ff0c1df36ac0",
-      "size": 2794516,
+      "checksum": "89a2233afc31b9308b7e4be57793e6aaaf9042e2f844b9ac9cc68de8aa31ff9b",
+      "size": 1594810,
       "category": "market-data",
-      "updatedAt": 1793880862604
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/10.json.gz",
-      "checksum": "8bd411a0efc97b4b212004f3a17504a192b219e609d473995db47006e9e0cddc",
-      "size": 2989374,
+      "checksum": "99b8cdee3a21b4d972d56e4e63be3825bda49cb344dd4018ae4c39878abfb553",
+      "size": 1710179,
       "category": "market-data",
-      "updatedAt": 1793881539790
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/11.json.gz",
-      "checksum": "8bf1ed976aa8d493ea1f659210142d42ba94b89f7cef6ef4fddc3fdaceeb2926",
-      "size": 2915972,
+      "checksum": "8f4929c874a2cc0f210fc85039877f59f67396b07b0bd4140ff53feb16773229",
+      "size": 1666088,
       "category": "market-data",
-      "updatedAt": 1793881550564
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2025/12.json.gz",
-      "checksum": "83602ac27891e47a5762d35105945b6e48f9a8dc11114883edd470dcd422040b",
-      "size": 2944531,
+      "checksum": "2f9a00108e3d78967dcde79c4ed39ee4b528751dee9aba43f4dade4b360597be",
+      "size": 1680419,
       "category": "market-data",
-      "updatedAt": 1793881561705
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/01.json.gz",
-      "checksum": "50d7895ecce9ee89c716812eec2118b2fd8dd7cec17499c3eab3298a07dd53e9",
-      "size": 2921218,
+      "checksum": "cbabcae508c47f42d889f67cad1daa56acb44a5ce6f5e35183cb400f098464ff",
+      "size": 1667146,
       "category": "market-data",
-      "updatedAt": 1793881575405
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/02.json.gz",
-      "checksum": "833e3a280ceb787c94b9fcdb7fff260371a1142cfe6e30127eaf48c3c631bdd5",
-      "size": 2734892,
+      "checksum": "619e894e28ca6c606628441370fc552a9a8ec962731cbcc32fd51b2c03aad449",
+      "size": 1562565,
       "category": "market-data",
-      "updatedAt": 1793881588615
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/03.json.gz",
-      "checksum": "35874950e5c7c09c168aa96af972d1021b2e6bc5f78da63fd637d2057616adb1",
-      "size": 3007620,
+      "checksum": "35375806cf98ddcc269240ea4c9db4fabad1ff7569e5a5ea2066b039f008da2f",
+      "size": 1714219,
       "category": "market-data",
-      "updatedAt": 1793881602121
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/04.json.gz",
-      "checksum": "343be327808d90c55921764ce6944a27f6bb0371889b1514bb727f90669aba9a",
-      "size": 2859279,
+      "checksum": "827236957e8e48f428eea03b2c625a91ed0ff29654f68f5639b5fb5c05f2d491",
+      "size": 1626148,
       "category": "market-data",
-      "updatedAt": 1793881614137
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/05.json.gz",
-      "checksum": "c5c8111006e4e343259a30473cee5b5c9121a1ea1c4d8b269b7aee2b1bf45ff0",
-      "size": 2922288,
+      "checksum": "5c229cb63ae993e59f35a7e4a9c729e9091ce45a8890f84f3bb27cc041046948",
+      "size": 1662360,
       "category": "market-data",
-      "updatedAt": 1793881624958
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/06.json.gz",
-      "checksum": "67a256d9c9c4d03dd17678b0a53c9f45fa67e313ea4507a66b58cdffad77de34",
-      "size": 2893741,
+      "checksum": "4d1a44f2f1e9a60f45c9e5f6e4dedc56782664ad8d900b42846fad663f35516b",
+      "size": 1647700,
       "category": "market-data",
-      "updatedAt": 1793881635573
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/07.json.gz",
-      "checksum": "eb657bc600915b399b483cbfda69867c5463b4cf03f51c24f9239295e04cf62c",
-      "size": 2904381,
+      "checksum": "e7995d38d30307aaaf0dbef756325c5c99694937f300566aaca9a8bfd98a32ec",
+      "size": 1657771,
       "category": "market-data",
-      "updatedAt": 1793881647670
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/08.json.gz",
-      "checksum": "f7f90d3797906e0871f93e2f97ec5cc428692fc40269419c5814855ff8d3d625",
-      "size": 2864582,
+      "checksum": "91ac976dac250a661b1ba81757252af68a0271f701da70b0b43aa7c5451c828d",
+      "size": 1630367,
       "category": "market-data",
-      "updatedAt": 1793881659424
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/09.json.gz",
-      "checksum": "99fafdc33edf5346816cd4e9d769c1fcd8df6b5855ebcd4d22642093c96cbd84",
-      "size": 2835038,
+      "checksum": "71d21114501584c2f9ed95418f5ee5773a8ac6007a86782ceb25ef997727e225",
+      "size": 1615628,
       "category": "market-data",
-      "updatedAt": 1793881670289
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/10.json.gz",
-      "checksum": "c732589d1ef5c85e1cef5cc099a6a36da146f88e785b848ab848315605f7a18b",
-      "size": 2905571,
+      "checksum": "42f0ea656503fbca52db1f5409cbcb43f20113f09086d72595d4d1cfd9ea188a",
+      "size": 1656370,
       "category": "market-data",
-      "updatedAt": 1793882968563
+      "updatedAt": 1793885180922
     },
     {
       "path": "data/market-history/BTCUSDT/1m/2026/11.json.gz",
