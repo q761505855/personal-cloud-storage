@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "name": "Crypto Contract Workstation",
+      "data": "data",
+      "id": "crypto-contract-workstation",
+      "manifest": "projects/crypto-contract-workstation/manifest.json",
+      "config": "config",
+      "root": "projects/crypto-contract-workstation"
+    }
+  ],
+  "fileType": "personal-cloud-storage-registry",
+  "schemaVersion": 1
+}
