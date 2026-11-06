@@ -16,11 +16,11 @@
       "account": true,
       "order": true,
       "dock": true,
-      "replay": true,
-      "status": true
+      "replay": false,
+      "status": false
     },
     "chartHeight": null,
-    "mobileChartHeight": null,
+    "mobileChartHeight": 515,
     "dockHeight": 220
   },
   "selectedSymbol": {
