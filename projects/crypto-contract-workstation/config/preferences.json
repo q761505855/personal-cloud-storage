@@ -253,7 +253,12 @@
               24
             ],
             "visible": true,
-            "styles": {}
+            "styles": {
+              "rsiLevels": {
+                "oversold": 20,
+                "overbought": 80
+              }
+            }
           }
         ]
       }
