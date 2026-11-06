@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "binanceRestBaseUrl": "https://fapi.binance.com",
+  "candleType": "candle_solid",
+  "pinnedPeriods": [
+    "5m",
+    "15m",
+    "1h",
+    "8h",
+    "1d",
+    "1w"
+  ],
+  "workspace": {
+    "schemaVersion": 1,
+    "panels": {
+      "account": true,
+      "order": true,
+      "dock": true,
+      "replay": true,
+      "status": true
+    },
+    "chartHeight": null,
+    "mobileChartHeight": null,
+    "dockHeight": 220
+  },
+  "selectedSymbol": {
+    "ticker": "ETHUSDT",
+    "name": "ETH / USDT Perpetual",
+    "shortName": "ETHUSDT",
+    "exchange": "BINANCE",
+    "market": "USDT-M PERPETUAL",
+    "priceCurrency": "USDT",
+    "type": "PERPETUAL",
+    "pricePrecision": 2,
+    "volumePrecision": 3
+  },
+  "chartIndicators": {
+    "schemaVersion": 1,
+    "main": [
+      {
+        "name": "PIVOTS",
+        "calcParams": [
+          "Traditional",
+          "Auto",
+          30,
+          true,
+          true,
+          true,
+          "Left",
+          1,
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          "#fb8c00",
+          "#ef5350",
+          "#26a69a",
+          true,
+          "#a78bfa",
+          "#f59e0b",
+          "#38bdf8"
+        ],
+        "visible": true,
+        "styles": {}
+      },
+      {
+        "name": "SUPERTREND",
+        "calcParams": [
+          10,
+          3,
+          88
+        ],
+        "visible": true,
+        "styles": {
+          "lines": [
+            {
+              "color": "#26a69a",
+              "size": 2,
+              "style": "solid",
+              "smooth": false,
+              "dashedValue": []
+            },
+            {
+              "color": "#ef5350",
+              "size": 2,
+              "style": "solid",
+              "smooth": false,
+              "dashedValue": []
+            }
+          ]
+        }
+      },
+      {
+        "name": "EMA",
+        "calcParams": [
+          10,
+          30,
+          60
+        ],
+        "visible": true,
+        "styles": {}
+      }
+    ],
+    "sub": [
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "VOL",
+            "calcParams": [
+              5,
+              10,
+              20
+            ],
+            "visible": true,
+            "styles": {}
+          }
+        ]
+      },
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "MACD",
+            "calcParams": [
+              12,
+              26,
+              9
+            ],
+            "visible": true,
+            "styles": {}
+          }
+        ]
+      }
+    ]
+  }
+}
