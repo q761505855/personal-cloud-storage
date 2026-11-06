@@ -119,6 +119,144 @@
         "styles": {}
       }
     ],
-    "sub": []
+    "sub": [
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "TTM_SQUEEZE",
+            "calcParams": [
+              20,
+              2,
+              1.5
+            ],
+            "visible": true,
+            "styles": {
+              "bars": [
+                {
+                  "upColor": "#00bcd4",
+                  "downColor": "#00bcd4",
+                  "noChangeColor": "#00bcd4",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                },
+                {
+                  "upColor": "#2962ff",
+                  "downColor": "#2962ff",
+                  "noChangeColor": "#2962ff",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                },
+                {
+                  "upColor": "#ef5350",
+                  "downColor": "#ef5350",
+                  "noChangeColor": "#ef5350",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                },
+                {
+                  "upColor": "#ffca28",
+                  "downColor": "#ffca28",
+                  "noChangeColor": "#ffca28",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                }
+              ],
+              "circles": [
+                {
+                  "upColor": "#ef5350",
+                  "downColor": "#ef5350",
+                  "noChangeColor": "#ef5350",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                },
+                {
+                  "upColor": "#26a69a",
+                  "downColor": "#26a69a",
+                  "noChangeColor": "#26a69a",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "TTM_WAVE_C",
+            "calcParams": [
+              8,
+              233,
+              377
+            ],
+            "visible": true,
+            "styles": {
+              "bars": [
+                {
+                  "upColor": "#1b966e",
+                  "downColor": "#1b966e",
+                  "noChangeColor": "#1b966e",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                },
+                {
+                  "upColor": "#a7f2c8",
+                  "downColor": "#a7f2c8",
+                  "noChangeColor": "#a7f2c8",
+                  "style": "fill",
+                  "borderSize": 0,
+                  "borderStyle": "solid",
+                  "borderDashedValue": []
+                }
+              ],
+              "lines": [
+                {
+                  "color": "#76808f",
+                  "size": 1,
+                  "smooth": false,
+                  "style": "dashed",
+                  "dashedValue": [
+                    3,
+                    3
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "RSI",
+            "calcParams": [
+              6,
+              12,
+              24
+            ],
+            "visible": true,
+            "styles": {}
+          }
+        ]
+      }
+    ]
   }
 }
