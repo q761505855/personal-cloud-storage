@@ -17,7 +17,7 @@
       "order": true,
       "dock": true,
       "replay": true,
-      "status": true
+      "status": false
     },
     "chartHeight": null,
     "mobileChartHeight": 633,
