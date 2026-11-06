@@ -16,7 +16,7 @@
       "account": true,
       "order": true,
       "dock": true,
-      "replay": false,
+      "replay": true,
       "status": true
     },
     "chartHeight": null,
