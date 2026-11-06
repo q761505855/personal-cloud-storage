@@ -1,7 +1,7 @@
 {
   "fileType": "crypto-contract-workstation-manifest",
   "schemaVersion": 1,
-  "updatedAt": 1793965845178,
+  "updatedAt": 1793966036495,
   "files": [
     {
       "path": "data/market-history/BTCUSDT/1m/2024/04.json.gz",
@@ -362,10 +362,10 @@
     },
     {
       "path": "data/market-history/ETHUSDT/1m/2026/11.json.gz",
-      "checksum": "3824cb80e582f53faf1389f9f8e3ee879f48c970324218315168a1ec786cfb8d",
-      "size": 308519,
+      "checksum": "5dbbd8771230d086ed40ee997950fc0b213e2a14b64df989c7f25d48cb2f9a9f",
+      "size": 308635,
       "category": "market-data",
-      "updatedAt": 1793965845178
+      "updatedAt": 1793966036495
     }
   ]
 }
