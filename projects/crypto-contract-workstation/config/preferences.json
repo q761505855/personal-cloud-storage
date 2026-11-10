@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "binanceRestBaseUrl": "https://fapi.binance.com",
-  "candleType": "candle_solid",
+  "candleType": "heikin_ashi",
   "pinnedPeriods": [
     "5m",
     "15m",
