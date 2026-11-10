@@ -124,21 +124,6 @@
         "height": 100,
         "indicators": [
           {
-            "name": "MACD",
-            "calcParams": [
-              12,
-              26,
-              9
-            ],
-            "visible": true,
-            "styles": {}
-          }
-        ]
-      },
-      {
-        "height": 100,
-        "indicators": [
-          {
             "name": "RSI",
             "calcParams": [
               6,
