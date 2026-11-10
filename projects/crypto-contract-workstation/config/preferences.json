@@ -121,7 +121,7 @@
     ],
     "sub": [
       {
-        "height": 100,
+        "height": 329,
         "indicators": [
           {
             "name": "TTM_SQUEEZE",
