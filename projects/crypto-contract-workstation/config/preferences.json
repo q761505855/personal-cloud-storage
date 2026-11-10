@@ -20,7 +20,7 @@
       "status": false
     },
     "chartHeight": 601,
-    "mobileChartHeight": 649,
+    "mobileChartHeight": 512,
     "dockHeight": 301
   },
   "selectedSymbol": {
@@ -121,54 +121,6 @@
     ],
     "sub": [
       {
-        "height": 69,
-        "indicators": [
-          {
-            "name": "TTM_WAVE_C",
-            "calcParams": [
-              8,
-              233,
-              377
-            ],
-            "visible": true,
-            "styles": {
-              "bars": [
-                {
-                  "upColor": "#1b966e",
-                  "downColor": "#1b966e",
-                  "noChangeColor": "#1b966e",
-                  "style": "fill",
-                  "borderSize": 0,
-                  "borderStyle": "solid",
-                  "borderDashedValue": []
-                },
-                {
-                  "upColor": "#a7f2c8",
-                  "downColor": "#a7f2c8",
-                  "noChangeColor": "#a7f2c8",
-                  "style": "fill",
-                  "borderSize": 0,
-                  "borderStyle": "solid",
-                  "borderDashedValue": []
-                }
-              ],
-              "lines": [
-                {
-                  "color": "#76808f",
-                  "size": 1,
-                  "smooth": false,
-                  "style": "dashed",
-                  "dashedValue": [
-                    3,
-                    3
-                  ]
-                }
-              ]
-            }
-          }
-        ]
-      },
-      {
         "height": 100,
         "indicators": [
           {
@@ -185,6 +137,21 @@
                 "overbought": 80
               }
             }
+          }
+        ]
+      },
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "MACD",
+            "calcParams": [
+              12,
+              26,
+              9
+            ],
+            "visible": true,
+            "styles": {}
           }
         ]
       }
