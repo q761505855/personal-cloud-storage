@@ -20,7 +20,7 @@
       "status": false
     },
     "chartHeight": 601,
-    "mobileChartHeight": 473,
+    "mobileChartHeight": 476,
     "dockHeight": 301
   },
   "selectedSymbol": {
@@ -180,6 +180,21 @@
                 }
               ]
             }
+          }
+        ]
+      },
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "MACD",
+            "calcParams": [
+              12,
+              26,
+              9
+            ],
+            "visible": true,
+            "styles": {}
           }
         ]
       }
