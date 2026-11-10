@@ -19,7 +19,7 @@
       "replay": true,
       "status": false
     },
-    "chartHeight": 576,
+    "chartHeight": 688,
     "mobileChartHeight": 649,
     "dockHeight": 301
   },
@@ -121,7 +121,7 @@
     ],
     "sub": [
       {
-        "height": 60,
+        "height": 100,
         "indicators": [
           {
             "name": "TTM_SQUEEZE",
