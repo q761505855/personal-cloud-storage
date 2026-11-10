@@ -20,7 +20,7 @@
       "status": false
     },
     "chartHeight": 601,
-    "mobileChartHeight": 511,
+    "mobileChartHeight": 444,
     "dockHeight": 301
   },
   "selectedSymbol": {
@@ -119,42 +119,6 @@
         "styles": {}
       }
     ],
-    "sub": [
-      {
-        "height": 100,
-        "indicators": [
-          {
-            "name": "RSI",
-            "calcParams": [
-              6,
-              12,
-              24
-            ],
-            "visible": true,
-            "styles": {
-              "rsiLevels": {
-                "oversold": 20,
-                "overbought": 80
-              }
-            }
-          }
-        ]
-      },
-      {
-        "height": 100,
-        "indicators": [
-          {
-            "name": "MACD",
-            "calcParams": [
-              12,
-              26,
-              9
-            ],
-            "visible": true,
-            "styles": {}
-          }
-        ]
-      }
-    ]
+    "sub": []
   }
 }
