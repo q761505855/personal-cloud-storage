@@ -19,7 +19,7 @@
       "replay": true,
       "status": false
     },
-    "chartHeight": 601,
+    "chartHeight": 547,
     "mobileChartHeight": 476,
     "dockHeight": 301
   },
@@ -131,7 +131,12 @@
               24
             ],
             "visible": true,
-            "styles": {}
+            "styles": {
+              "rsiLevels": {
+                "oversold": 20,
+                "overbought": 80
+              }
+            }
           }
         ]
       },
