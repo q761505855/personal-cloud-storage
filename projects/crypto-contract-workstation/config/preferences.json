@@ -121,7 +121,7 @@
     ],
     "sub": [
       {
-        "height": 66,
+        "height": 60,
         "indicators": [
           {
             "name": "TTM_WAVE_C",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "height": 94,
+        "height": 125,
         "indicators": [
           {
             "name": "MACD",
