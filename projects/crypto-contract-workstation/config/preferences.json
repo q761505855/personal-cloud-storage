@@ -10,7 +10,7 @@
     "1d",
     "1w"
   ],
-  "replayStepPeriod": "5m",
+  "replayStepPeriod": "1m",
   "workspace": {
     "schemaVersion": 1,
     "panels": {
