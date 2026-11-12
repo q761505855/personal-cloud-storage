@@ -121,26 +121,6 @@
     ],
     "sub": [
       {
-        "height": 94,
-        "indicators": [
-          {
-            "name": "RSI",
-            "calcParams": [
-              6,
-              12,
-              24
-            ],
-            "visible": true,
-            "styles": {
-              "rsiLevels": {
-                "oversold": 20,
-                "overbought": 80
-              }
-            }
-          }
-        ]
-      },
-      {
         "height": 66,
         "indicators": [
           {
