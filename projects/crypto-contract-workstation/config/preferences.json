@@ -11,7 +11,7 @@
     "1w"
   ],
   "replayStepPeriod": "5m",
-  "showTradeOverlays": false,
+  "showTradeOverlays": true,
   "workspace": {
     "schemaVersion": 1,
     "panels": {
