@@ -21,9 +21,9 @@
       "replay": true,
       "status": false
     },
-    "chartHeight": 510,
+    "chartHeight": 765,
     "mobileChartHeight": 517,
-    "dockHeight": 301
+    "dockHeight": 314
   },
   "selectedSymbol": {
     "ticker": "ETHUSDT",
