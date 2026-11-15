@@ -127,7 +127,22 @@
     ],
     "sub": [
       {
-        "height": 106,
+        "height": 100,
+        "indicators": [
+          {
+            "name": "VOL",
+            "calcParams": [
+              5,
+              10,
+              20
+            ],
+            "visible": true,
+            "styles": {}
+          }
+        ]
+      },
+      {
+        "height": 100,
         "indicators": [
           {
             "name": "MACD",
