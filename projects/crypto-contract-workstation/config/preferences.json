@@ -118,7 +118,7 @@
         "name": "EMA",
         "calcParams": [
           10,
-          30,
+          60,
           360
         ],
         "visible": true,
