@@ -13,8 +13,8 @@
   "replayStepPeriod": "15m",
   "showTradeOverlays": true,
   "chartWindowSize": {
-    "width": 1069,
-    "height": 726
+    "width": 996,
+    "height": 658
   },
   "workspace": {
     "schemaVersion": 1,
