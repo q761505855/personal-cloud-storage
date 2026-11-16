@@ -21,11 +21,11 @@
     "panels": {
       "account": true,
       "order": true,
-      "dock": true,
+      "dock": false,
       "replay": true,
       "status": false
     },
-    "chartHeight": 515,
+    "chartHeight": 531,
     "mobileChartHeight": 517,
     "dockHeight": 298
   },
