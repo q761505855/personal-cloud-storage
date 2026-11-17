@@ -42,7 +42,52 @@
   },
   "chartIndicators": {
     "schemaVersion": 1,
-    "main": [],
+    "main": [
+      {
+        "name": "PIVOTS",
+        "calcParams": [
+          "Traditional",
+          "Auto",
+          15,
+          true,
+          true,
+          true,
+          "Left",
+          1,
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          true,
+          "#fb8c00",
+          "#fb8c00",
+          "#ef5350",
+          "#26a69a",
+          false,
+          "#a78bfa",
+          "#f59e0b",
+          "#38bdf8"
+        ],
+        "visible": true,
+        "styles": {}
+      }
+    ],
     "sub": [
       {
         "height": 100,
