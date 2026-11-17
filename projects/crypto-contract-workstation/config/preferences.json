@@ -11,7 +11,7 @@
     "1w"
   ],
   "replayStepPeriod": "1h",
-  "showTradeOverlays": true,
+  "showTradeOverlays": false,
   "chartWindowSize": {
     "width": 996,
     "height": 658
