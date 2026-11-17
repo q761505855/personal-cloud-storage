@@ -47,7 +47,7 @@
         "name": "PIVOTS",
         "calcParams": [
           "Traditional",
-          "Auto",
+          "Daily",
           15,
           true,
           true,
