@@ -94,13 +94,13 @@
         "styles": {
           "sessionFills": [
             {
-              "color": "#f5bb55"
+              "color": "#f5bb5533"
             },
             {
-              "color": "#57b5fc80"
+              "color": "#57b5fc33"
             },
             {
-              "color": "#ce83ef80"
+              "color": "#ce83ef33"
             }
           ],
           "sessionLines": [
