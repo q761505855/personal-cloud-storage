@@ -91,7 +91,25 @@
         "name": "MARKET_SESSIONS",
         "calcParams": [],
         "visible": true,
-        "styles": {}
+        "styles": {
+          "sessionFills": [
+            {
+              "color": "#f5bb5580"
+            },
+            {
+              "color": "#57b5fc80"
+            },
+            {
+              "color": "#ce83ef80"
+            }
+          ],
+          "sessionLines": [
+            {
+              "style": "dashed",
+              "size": 1
+            }
+          ]
+        }
       }
     ],
     "sub": [
