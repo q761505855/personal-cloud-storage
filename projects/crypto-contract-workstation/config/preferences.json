@@ -86,6 +86,15 @@
         ],
         "visible": true,
         "styles": {}
+      },
+      {
+        "name": "MARKET_SESSIONS",
+        "calcParams": [
+          60,
+          60
+        ],
+        "visible": true,
+        "styles": {}
       }
     ],
     "sub": [
