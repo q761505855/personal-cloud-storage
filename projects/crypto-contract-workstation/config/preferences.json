@@ -89,10 +89,7 @@
       },
       {
         "name": "MARKET_SESSIONS",
-        "calcParams": [
-          60,
-          60
-        ],
+        "calcParams": [],
         "visible": true,
         "styles": {}
       }
