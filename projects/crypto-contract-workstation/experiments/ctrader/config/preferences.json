@@ -28,9 +28,9 @@
     "dockHeight": 220
   },
   "selectedSymbol": {
-    "ticker": "US500",
-    "name": "USA S&P 500 Index",
-    "shortName": "US500",
+    "ticker": "XAUUSD",
+    "name": "Gold vs US Dollar",
+    "shortName": "XAUUSD",
     "exchange": "CTRADER",
     "market": "cTrader",
     "priceCurrency": "USD",
