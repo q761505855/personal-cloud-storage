@@ -9,7 +9,7 @@
     "4h"
   ],
   "replayStepPeriod": "1m",
-  "showTradeOverlays": true,
+  "showTradeOverlays": false,
   "chartWindowSize": {
     "width": 1100,
     "height": 760
