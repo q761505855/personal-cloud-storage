@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "binanceRestBaseUrl": "https://fapi.binance.com",
+  "candleType": "candle_solid",
+  "pinnedPeriods": [
+    "5m",
+    "15m",
+    "1h",
+    "4h"
+  ],
+  "replayStepPeriod": "1m",
+  "showTradeOverlays": true,
+  "chartWindowSize": {
+    "width": 1100,
+    "height": 760
+  },
+  "workspace": {
+    "schemaVersion": 1,
+    "panels": {
+      "account": true,
+      "order": true,
+      "dock": true,
+      "replay": true,
+      "status": true
+    },
+    "chartHeight": null,
+    "mobileChartHeight": null,
+    "dockHeight": 220
+  },
+  "ctraderAccount": "live:49613453"
+}
