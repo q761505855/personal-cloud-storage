@@ -56,7 +56,7 @@
       {
         "name": "MARKET_SESSIONS",
         "calcParams": [],
-        "visible": true,
+        "visible": false,
         "styles": {
           "sessionFills": [
             {
