@@ -27,6 +27,17 @@
     "mobileChartHeight": null,
     "dockHeight": 220
   },
+  "selectedSymbol": {
+    "ticker": "US500",
+    "name": "USA S&P 500 Index",
+    "shortName": "US500",
+    "exchange": "CTRADER",
+    "market": "cTrader",
+    "priceCurrency": "USD",
+    "type": "CFD",
+    "pricePrecision": 2,
+    "volumePrecision": 0
+  },
   "ctraderAccount": "live:49613453",
   "chartIndicators": {
     "schemaVersion": 1,
