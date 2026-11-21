@@ -28,17 +28,17 @@
     "dockHeight": 220
   },
   "selectedSymbol": {
-    "ticker": "EURUSD",
-    "name": "Euro vs US Dollar",
-    "shortName": "EURUSD",
+    "ticker": "BTCUSD",
+    "name": "Bitcoin",
+    "shortName": "BTCUSD",
     "exchange": "CTRADER",
     "market": "cTrader",
     "priceCurrency": "USD",
     "type": "CFD",
-    "pricePrecision": 5,
+    "pricePrecision": 2,
     "volumePrecision": 0
   },
-  "ctraderAccount": "live:49613453",
+  "ctraderAccount": "demo:49613745",
   "chartIndicators": {
     "schemaVersion": 1,
     "main": [
