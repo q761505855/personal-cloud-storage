@@ -69,6 +69,22 @@
         }
       }
     ],
-    "sub": []
+    "sub": [
+      {
+        "height": 100,
+        "indicators": [
+          {
+            "name": "VOL",
+            "calcParams": [
+              5,
+              10,
+              20
+            ],
+            "visible": true,
+            "styles": {}
+          }
+        ]
+      }
+    ]
   }
 }
