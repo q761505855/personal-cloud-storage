@@ -72,6 +72,14 @@
             true
           ]
         }
+      },
+      {
+        "name": "BIG_TRADES",
+        "calcParams": [
+          25000
+        ],
+        "visible": true,
+        "styles": {}
       }
     ],
     "sub": [
