@@ -30,9 +30,9 @@
     "dockHeight": 220
   },
   "selectedSymbol": {
-    "ticker": "BTCUSD",
-    "name": "Bitcoin",
-    "shortName": "BTCUSD",
+    "ticker": "XAUUSD",
+    "name": "Gold vs US Dollar",
+    "shortName": "XAUUSD",
     "exchange": "CTRADER",
     "market": "cTrader",
     "priceCurrency": "USD",
