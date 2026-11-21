@@ -62,13 +62,13 @@
           ],
           "sessionLines": [
             {
-              "style": "solid",
+              "style": "dotted",
               "size": 1
             }
           ],
           "sessionVisibility": [
             false,
-            false,
+            true,
             true
           ]
         }
