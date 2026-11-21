@@ -62,7 +62,7 @@
           ],
           "sessionLines": [
             {
-              "style": "dashed",
+              "style": "solid",
               "size": 1
             }
           ]
