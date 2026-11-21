@@ -65,6 +65,11 @@
               "style": "solid",
               "size": 1
             }
+          ],
+          "sessionVisibility": [
+            false,
+            true,
+            true
           ]
         }
       }
