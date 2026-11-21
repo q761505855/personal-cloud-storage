@@ -68,7 +68,7 @@
           ],
           "sessionVisibility": [
             false,
-            true,
+            false,
             true
           ]
         }
