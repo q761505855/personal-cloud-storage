@@ -77,7 +77,7 @@
       {
         "name": "BIG_TRADES",
         "calcParams": [
-          1000000
+          100000
         ],
         "visible": true,
         "styles": {
