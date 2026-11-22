@@ -79,7 +79,22 @@
           100000
         ],
         "visible": true,
-        "styles": {}
+        "styles": {
+          "bubbleColors": [
+            {
+              "color": "#49d4ae6b"
+            },
+            {
+              "color": "#ff827e6b"
+            },
+            {
+              "color": "#49d4ae"
+            },
+            {
+              "color": "#ff827e"
+            }
+          ]
+        }
       }
     ],
     "sub": []
