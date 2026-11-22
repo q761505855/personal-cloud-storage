@@ -78,7 +78,7 @@
         "calcParams": [
           25000
         ],
-        "visible": false,
+        "visible": true,
         "styles": {}
       }
     ],
