@@ -11,6 +11,8 @@
     "SOLUSD",
     "XAGUSD",
     "US100-USDT-SWAP",
-    "US500-USDT-SWAP"
+    "US500-USDT-SWAP",
+    "BTC-USDT-SWAP",
+    "ETC-USDT-SWAP"
   ]
 }
