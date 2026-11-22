@@ -9,6 +9,8 @@
     "BTCUSD",
     "ETHUSD",
     "SOLUSD",
-    "XAGUSD"
+    "XAGUSD",
+    "US100-USDT-SWAP",
+    "US500-USDT-SWAP"
   ]
 }
