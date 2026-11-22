@@ -1,7 +1,7 @@
 {
   "fileType": "crypto-contract-workstation-manifest",
   "schemaVersion": 1,
-  "updatedAt": 1795365710620,
+  "updatedAt": 1795367753602,
   "files": [
     {
       "path": "config/favorites.json",
@@ -12,10 +12,10 @@
     },
     {
       "path": "config/preferences.json",
-      "checksum": "38e15ef83a0891944d1b557241d2dcd8a9218c7073ee9f7bc4917d0759703643",
-      "size": 2039,
+      "checksum": "7b578bfc725359bc9236768adf26603b2b7cb3929f1033b09c07fe641dce1c35",
+      "size": 2043,
       "category": "config",
-      "updatedAt": 1795365710620
+      "updatedAt": 1795367753602
     }
   ]
 }

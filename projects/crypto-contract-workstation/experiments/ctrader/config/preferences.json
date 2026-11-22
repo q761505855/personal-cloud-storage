@@ -41,7 +41,7 @@
     "volumePrecision": 0
   },
   "ctraderAccount": "live:49613453",
-  "priceSource": "okx",
+  "priceSource": "ctrader",
   "chartIndicators": {
     "schemaVersion": 1,
     "main": [
