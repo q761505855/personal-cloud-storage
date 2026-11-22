@@ -77,7 +77,7 @@
       {
         "name": "BIG_TRADES",
         "calcParams": [
-          10000
+          100000
         ],
         "visible": true,
         "styles": {
@@ -94,7 +94,8 @@
             {
               "color": "#ff827e"
             }
-          ]
+          ],
+          "bubbleMode": "aggregate"
         }
       }
     ],
