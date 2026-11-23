@@ -108,7 +108,7 @@
     "sub": [],
     "orderFlow": {
       "footprint": {
-        "type": "delta",
+        "type": "bidAsk",
         "layout": "histogram",
         "input": "volume",
         "grouping": "auto",
@@ -128,7 +128,7 @@
         "textColor": "#e7eef8",
         "pocColor": "#ffcc70",
         "imbalanceColor": "#eaa9ff",
-        "plotType": "bidAsk"
+        "plotType": "delta"
       }
     }
   }
