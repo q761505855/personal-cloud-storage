@@ -109,7 +109,7 @@
     "orderFlow": {
       "footprint": {
         "type": "delta",
-        "layout": "box",
+        "layout": "histogram",
         "input": "volume",
         "grouping": "auto",
         "targetRows": 22,
