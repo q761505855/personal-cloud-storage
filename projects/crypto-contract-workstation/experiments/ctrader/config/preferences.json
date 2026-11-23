@@ -105,6 +105,30 @@
         }
       }
     ],
-    "sub": []
+    "sub": [],
+    "orderFlow": {
+      "footprint": {
+        "type": "bidAsk",
+        "layout": "histogram",
+        "input": "volume",
+        "grouping": "auto",
+        "targetRows": 22,
+        "ticksPerRow": 1,
+        "columnWidth": 110,
+        "minNotional": 0,
+        "maxNotional": 0,
+        "shading": "fade",
+        "showText": true,
+        "fontSize": 10,
+        "showPoc": true,
+        "showImbalance": true,
+        "imbalanceRatio": 3,
+        "bidColor": "#e66a73",
+        "askColor": "#33b99a",
+        "textColor": "#e7eef8",
+        "pocColor": "#ffcc70",
+        "imbalanceColor": "#eaa9ff"
+      }
+    }
   }
 }
