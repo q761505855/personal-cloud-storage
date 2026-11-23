@@ -127,7 +127,8 @@
         "askColor": "#33b99a",
         "textColor": "#e7eef8",
         "pocColor": "#ffcc70",
-        "imbalanceColor": "#eaa9ff"
+        "imbalanceColor": "#eaa9ff",
+        "plotType": "bidAsk"
       }
     }
   }
