@@ -108,8 +108,8 @@
     "sub": [],
     "orderFlow": {
       "footprint": {
-        "type": "delta",
-        "layout": "histogram",
+        "type": "bidAsk",
+        "layout": "box",
         "input": "volume",
         "grouping": "auto",
         "targetRows": 22,
