@@ -150,8 +150,8 @@
         "showPoc": true,
         "showValueArea": true,
         "showLabels": true,
-        "pocColor": "#ffcc70",
-        "levelColor": "#aabcda",
+        "pocColor": "#ffcc7080",
+        "levelColor": "#aabcda80",
         "valueAreaColor": "#df9834a6"
       },
       "profile": {
