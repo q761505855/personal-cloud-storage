@@ -141,6 +141,22 @@
         "positiveColor": "#49d4aeae",
         "negativeColor": "#ff827eae"
       },
+      "profile": {
+        "type": "volumeDelta",
+        "rows": 100,
+        "width": 42,
+        "valueArea": 70,
+        "showPoc": true,
+        "showValueArea": true,
+        "showLabels": true,
+        "showValues": false,
+        "volumeColor": "#3b54766b",
+        "valueAreaColor": "#5e93d67a",
+        "bidColor": "#ff827e66",
+        "askColor": "#49d4ae66",
+        "pocColor": "#ffcc70",
+        "levelColor": "#aabcda"
+      },
       "bubbles": {
         "thresholdUnit": "contracts",
         "maxNotional": 0,
