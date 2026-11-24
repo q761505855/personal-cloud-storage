@@ -134,7 +134,7 @@
         "placement": "right",
         "offset": 0,
         "width": 26,
-        "rows": 100,
+        "rows": 200,
         "type": "volumeDelta",
         "showHeaders": true,
         "volumeColor": "#769ce2a6",
