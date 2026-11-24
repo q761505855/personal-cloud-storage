@@ -133,13 +133,20 @@
       "visibleProfile": {
         "placement": "right",
         "offset": 0,
-        "width": 26,
+        "width": 15,
         "rows": 200,
         "type": "volumeDelta",
         "showHeaders": true,
         "volumeColor": "#769ce2a6",
         "positiveColor": "#49d4aeae",
-        "negativeColor": "#ff827eae"
+        "negativeColor": "#ff827eae",
+        "valueArea": 70,
+        "showPoc": true,
+        "showValueArea": true,
+        "showLabels": true,
+        "pocColor": "#ffcc70",
+        "levelColor": "#aabcda",
+        "valueAreaColor": "#a8c6ffdb"
       },
       "profile": {
         "type": "volumeDelta",
