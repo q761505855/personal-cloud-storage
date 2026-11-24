@@ -46,12 +46,6 @@
     "schemaVersion": 1,
     "main": [
       {
-        "name": "FOOTPRINT",
-        "calcParams": [],
-        "visible": true,
-        "styles": {}
-      },
-      {
         "name": "MARKET_SESSIONS",
         "calcParams": [],
         "visible": true,
