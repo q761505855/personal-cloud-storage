@@ -169,7 +169,7 @@
         "maxNotional": 0,
         "minQuantity": 1,
         "maxQuantity": 0,
-        "minContracts": 10000,
+        "minContracts": 1000,
         "maxContracts": 0,
         "minLots": 1,
         "maxLots": 0,
@@ -181,7 +181,8 @@
         "maxRadius": 30,
         "hollow": false,
         "showText": true,
-        "textColor": "#f2f5fa"
+        "textColor": "#f2f5fa",
+        "maxBubbles": 1000
       }
     }
   }
