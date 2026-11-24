@@ -131,7 +131,7 @@
         "plotType": "delta"
       },
       "bubbles": {
-        "thresholdUnit": "notional",
+        "thresholdUnit": "contracts",
         "maxNotional": 0,
         "minQuantity": 1,
         "maxQuantity": 0,
