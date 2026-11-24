@@ -30,9 +30,9 @@
     "dockHeight": 220
   },
   "selectedSymbol": {
-    "ticker": "USTEC",
-    "name": "US Tech 100 Index",
-    "shortName": "USTEC",
+    "ticker": "BTCUSD",
+    "name": "Bitcoin",
+    "shortName": "BTCUSD",
     "exchange": "CTRADER",
     "market": "cTrader",
     "priceCurrency": "USD",
