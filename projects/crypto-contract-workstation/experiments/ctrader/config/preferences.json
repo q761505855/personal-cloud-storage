@@ -43,15 +43,15 @@
   "ctraderAccount": "live:49613453",
   "priceSource": "okx",
   "okxSelectedSymbol": {
-    "ticker": "US100-USDT-SWAP",
-    "name": "US100 / USDT 永续合约",
-    "shortName": "US100-USDT-SWAP",
+    "ticker": "QQQ-USDT-SWAP",
+    "name": "QQQ / USDT 永续合约",
+    "shortName": "QQQ-USDT-SWAP",
     "exchange": "OKX",
     "market": "OKX USDT 永续",
     "priceCurrency": "USDT",
     "type": "PERPETUAL",
-    "pricePrecision": 0,
-    "volumePrecision": 4
+    "pricePrecision": 2,
+    "volumePrecision": 3
   },
   "chartIndicators": {
     "schemaVersion": 1,
