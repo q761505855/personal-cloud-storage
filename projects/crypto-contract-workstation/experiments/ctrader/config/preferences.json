@@ -48,7 +48,7 @@
       {
         "name": "FOOTPRINT",
         "calcParams": [],
-        "visible": true,
+        "visible": false,
         "styles": {}
       },
       {
