@@ -137,7 +137,7 @@
         "rows": 200,
         "type": "volumeDelta",
         "showHeaders": true,
-        "volumeColor": "#769ce2a6",
+        "volumeColor": "#e2b474a6",
         "positiveColor": "#49d4aeae",
         "negativeColor": "#ff827eae",
         "valueArea": 70,
