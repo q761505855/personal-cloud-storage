@@ -97,6 +97,12 @@
           ],
           "bubbleMode": "aggregate"
         }
+      },
+      {
+        "name": "VISIBLE_VOLUME_PROFILE",
+        "calcParams": [],
+        "visible": true,
+        "styles": null
       }
     ],
     "sub": [],
