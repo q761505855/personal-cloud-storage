@@ -133,7 +133,7 @@
       "visibleProfile": {
         "placement": "right",
         "offset": 0,
-        "width": 15,
+        "width": 10,
         "rows": 200,
         "type": "volumeDelta",
         "showHeaders": true,
