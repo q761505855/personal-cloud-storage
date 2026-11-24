@@ -129,6 +129,25 @@
         "pocColor": "#ffcc70",
         "imbalanceColor": "#e5cc24",
         "plotType": "delta"
+      },
+      "bubbles": {
+        "thresholdUnit": "notional",
+        "maxNotional": 0,
+        "minQuantity": 1,
+        "maxQuantity": 0,
+        "minContracts": 1,
+        "maxContracts": 0,
+        "minLots": 1,
+        "maxLots": 0,
+        "marker": "circle",
+        "sizeByVolume": true,
+        "opacityByVolume": false,
+        "fixedRadius": 8,
+        "minRadius": 0,
+        "maxRadius": 20,
+        "hollow": false,
+        "showText": true,
+        "textColor": "#f2f5fa"
       }
     }
   }
