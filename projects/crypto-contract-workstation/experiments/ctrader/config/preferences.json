@@ -130,6 +130,17 @@
         "imbalanceColor": "#e5cc24",
         "plotType": "delta"
       },
+      "visibleProfile": {
+        "placement": "right",
+        "offset": 0,
+        "width": 26,
+        "rows": 100,
+        "type": "volumeDelta",
+        "showHeaders": true,
+        "volumeColor": "#769ce2a6",
+        "positiveColor": "#49d4aeae",
+        "negativeColor": "#ff827eae"
+      },
       "bubbles": {
         "thresholdUnit": "contracts",
         "maxNotional": 0,
