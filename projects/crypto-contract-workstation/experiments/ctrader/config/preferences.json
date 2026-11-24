@@ -151,7 +151,7 @@
       "profile": {
         "type": "volumeDelta",
         "rows": 100,
-        "width": 40,
+        "width": 20,
         "valueArea": 70,
         "showPoc": true,
         "showValueArea": true,
