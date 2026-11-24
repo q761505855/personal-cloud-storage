@@ -178,7 +178,7 @@
         "opacityByVolume": false,
         "fixedRadius": 8,
         "minRadius": 5,
-        "maxRadius": 30,
+        "maxRadius": 40,
         "hollow": false,
         "showText": true,
         "textColor": "#f2f5fa",
