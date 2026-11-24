@@ -115,7 +115,7 @@
     "orderFlow": {
       "footprint": {
         "type": "bidAsk",
-        "layout": "histogram",
+        "layout": "box",
         "input": "volume",
         "grouping": "auto",
         "targetRows": 22,
@@ -134,7 +134,7 @@
         "textColor": "#e7eef8",
         "pocColor": "#ffcc70",
         "imbalanceColor": "#e5cc24",
-        "plotType": "delta"
+        "plotType": "bidAsk"
       },
       "visibleProfile": {
         "placement": "right",
