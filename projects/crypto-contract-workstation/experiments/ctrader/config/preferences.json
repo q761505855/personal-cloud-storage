@@ -101,7 +101,7 @@
       {
         "name": "VISIBLE_VOLUME_PROFILE",
         "calcParams": [],
-        "visible": false,
+        "visible": true,
         "styles": null
       }
     ],
