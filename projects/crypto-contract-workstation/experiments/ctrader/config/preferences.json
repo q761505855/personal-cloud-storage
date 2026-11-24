@@ -177,7 +177,7 @@
         "sizeByVolume": true,
         "opacityByVolume": false,
         "fixedRadius": 8,
-        "minRadius": 5,
+        "minRadius": 10,
         "maxRadius": 40,
         "hollow": false,
         "showText": true,
