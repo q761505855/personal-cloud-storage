@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "binanceRestBaseUrl": "https://fapi.binance.com",
   "candleType": "candle_solid",
+  "showCandleHoverDetails": true,
   "pinnedPeriods": [
     "1m",
     "5m",
