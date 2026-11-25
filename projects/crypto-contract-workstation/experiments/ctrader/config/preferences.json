@@ -96,7 +96,7 @@
         "calcParams": [
           1000000
         ],
-        "visible": false,
+        "visible": true,
         "styles": {
           "bubbleColors": [
             {
