@@ -100,10 +100,10 @@
         "styles": {
           "bubbleColors": [
             {
-              "color": "#4991d4bf"
+              "color": "#4991d480"
             },
             {
-              "color": "#ffd080bf"
+              "color": "#ffd08080"
             },
             {
               "color": "#49d4ae"
