@@ -20,7 +20,7 @@
     "schemaVersion": 1,
     "panels": {
       "account": true,
-      "order": true,
+      "order": false,
       "dock": true,
       "replay": true,
       "status": true
