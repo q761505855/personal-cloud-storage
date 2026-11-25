@@ -186,7 +186,7 @@
         "maxNotional": 0,
         "minQuantity": 1,
         "maxQuantity": 0,
-        "minContracts": 500,
+        "minContracts": 50,
         "maxContracts": 0,
         "minLots": 1,
         "maxLots": 0,
