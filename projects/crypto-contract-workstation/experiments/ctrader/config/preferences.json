@@ -192,12 +192,12 @@
         "maxLots": 0,
         "marker": "circle",
         "sizeByVolume": true,
-        "opacityByVolume": false,
+        "opacityByVolume": true,
         "fixedRadius": 8,
         "minRadius": 10,
         "maxRadius": 40,
         "hollow": false,
-        "showText": true,
+        "showText": false,
         "textColor": "#f2f5fa",
         "maxBubbles": 1000
       }
