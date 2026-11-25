@@ -192,7 +192,7 @@
         "maxLots": 0,
         "marker": "circle",
         "sizeByVolume": true,
-        "opacityByVolume": true,
+        "opacityByVolume": false,
         "fixedRadius": 8,
         "minRadius": 10,
         "maxRadius": 40,
