@@ -193,7 +193,7 @@
         "pocColor": "#f570ff",
         "levelColor": "#ffcc70",
         "showValues": false,
-        "width": 95,
+        "width": 100,
         "columnWidth": 200
       },
       "bubbles": {
