@@ -182,7 +182,7 @@
         "pocColor": "#ffcc70",
         "levelColor": "#aabcda",
         "showDelta": true,
-        "rowSizePercent": 0.1
+        "rowSizePercent": 0.01
       },
       "candleProfile": {
         "type": "volumeDelta",
