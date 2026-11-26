@@ -184,7 +184,7 @@
       },
       "candleProfile": {
         "type": "volumeDelta",
-        "showDelta": false,
+        "showDelta": true,
         "rows": 200,
         "valueArea": 70,
         "showPoc": true,
