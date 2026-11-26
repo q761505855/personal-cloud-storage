@@ -192,7 +192,8 @@
         "showLabels": false,
         "showValues": false,
         "width": 95,
-        "columnWidth": 120
+        "columnWidth": 120,
+        "pocColor": "#c670ff"
       },
       "bubbles": {
         "thresholdUnit": "contracts",
