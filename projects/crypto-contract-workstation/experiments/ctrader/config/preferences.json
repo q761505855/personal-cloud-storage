@@ -180,7 +180,9 @@
         "bidColor": "#ff827eb3",
         "askColor": "#49d4aeb3",
         "pocColor": "#ffcc70",
-        "levelColor": "#aabcda"
+        "levelColor": "#aabcda",
+        "showDelta": true,
+        "rowSizePercent": 0.1
       },
       "candleProfile": {
         "type": "volumeDelta",
