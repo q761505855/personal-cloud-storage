@@ -192,7 +192,7 @@
         "showLabels": false,
         "showValues": false,
         "width": 95,
-        "columnWidth": 120,
+        "columnWidth": 100,
         "pocColor": "#f383fb",
         "valueAreaColor": "#e2a112b3"
       },
