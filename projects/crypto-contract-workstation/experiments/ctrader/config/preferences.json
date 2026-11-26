@@ -182,6 +182,18 @@
         "pocColor": "#ffcc70",
         "levelColor": "#aabcda"
       },
+      "candleProfile": {
+        "type": "volumeDelta",
+        "showDelta": true,
+        "rows": 200,
+        "valueArea": 70,
+        "showPoc": true,
+        "showValueArea": true,
+        "showLabels": false,
+        "showValues": false,
+        "width": 95,
+        "columnWidth": 120
+      },
       "bubbles": {
         "thresholdUnit": "contracts",
         "maxNotional": 0,
