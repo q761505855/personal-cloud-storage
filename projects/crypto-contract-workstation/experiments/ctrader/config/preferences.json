@@ -22,7 +22,7 @@
     "panels": {
       "account": true,
       "order": false,
-      "dock": true,
+      "dock": false,
       "replay": true,
       "status": true
     },
@@ -58,10 +58,10 @@
     "schemaVersion": 1,
     "main": [
       {
-        "name": "FOOTPRINT",
+        "name": "CANDLE_VOLUME_PROFILE",
         "calcParams": [],
         "visible": false,
-        "styles": {}
+        "styles": null
       },
       {
         "name": "MARKET_SESSIONS",
