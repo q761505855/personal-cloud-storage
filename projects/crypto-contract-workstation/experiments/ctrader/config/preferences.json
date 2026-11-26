@@ -194,7 +194,7 @@
         "levelColor": "#ffcc70",
         "showValues": false,
         "width": 95,
-        "columnWidth": 120
+        "columnWidth": 200
       },
       "bubbles": {
         "thresholdUnit": "contracts",
