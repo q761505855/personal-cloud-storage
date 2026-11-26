@@ -179,7 +179,7 @@
         "valueAreaColor": "#e2a112b3",
         "bidColor": "#ff827eb3",
         "askColor": "#49d4aeb3",
-        "pocColor": "#ffcc70",
+        "pocColor": "#ee77d4",
         "levelColor": "#aabcda",
         "showDelta": true,
         "rowSizePercent": 0.01
