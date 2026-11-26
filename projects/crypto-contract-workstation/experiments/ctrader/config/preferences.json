@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "binanceRestBaseUrl": "https://fapi.binance.com",
-  "candleType": "candle_solid",
-  "showCandleHoverDetails": true,
+  "candleType": "line",
+  "showCandleHoverDetails": false,
   "pinnedPeriods": [
     "1m",
     "5m",
@@ -60,7 +60,7 @@
       {
         "name": "CANDLE_VOLUME_PROFILE",
         "calcParams": [],
-        "visible": true,
+        "visible": false,
         "styles": null
       },
       {
@@ -184,24 +184,24 @@
       },
       "candleProfile": {
         "type": "volumeDelta",
-        "showDelta": true,
+        "showDelta": false,
         "rows": 200,
         "valueArea": 70,
         "showPoc": true,
         "showValueArea": true,
         "showLabels": false,
+        "pocColor": "#f570ff",
+        "levelColor": "#ffcc70",
         "showValues": false,
         "width": 95,
-        "columnWidth": 120,
-        "pocColor": "#f383fb",
-        "valueAreaColor": "#e2a112b3"
+        "columnWidth": 120
       },
       "bubbles": {
         "thresholdUnit": "contracts",
         "maxNotional": 0,
         "minQuantity": 1,
         "maxQuantity": 0,
-        "minContracts": 50,
+        "minContracts": 30,
         "maxContracts": 0,
         "minLots": 1,
         "maxLots": 0,
