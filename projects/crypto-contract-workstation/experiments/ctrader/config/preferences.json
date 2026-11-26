@@ -185,20 +185,6 @@
         "showDelta": true,
         "rowSizePercent": 0.01
       },
-      "candleProfile": {
-        "type": "volumeDelta",
-        "showDelta": true,
-        "rows": 200,
-        "valueArea": 70,
-        "showPoc": true,
-        "showValueArea": true,
-        "showLabels": false,
-        "pocColor": "#f570ff",
-        "levelColor": "#ffcc70",
-        "showValues": false,
-        "width": 100,
-        "columnWidth": 200
-      },
       "bubbles": {
         "thresholdUnit": "contracts",
         "maxNotional": 0,
@@ -218,6 +204,20 @@
         "showText": true,
         "textColor": "#f2f5fa",
         "maxBubbles": 1000
+      },
+      "candleProfile": {
+        "type": "volumeDelta",
+        "showDelta": true,
+        "rows": 200,
+        "valueArea": 70,
+        "showPoc": true,
+        "showValueArea": true,
+        "showLabels": false,
+        "pocColor": "#f570ff",
+        "levelColor": "#ffcc70",
+        "showValues": false,
+        "width": 100,
+        "columnWidth": 200
       }
     }
   }
