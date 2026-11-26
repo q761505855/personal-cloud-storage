@@ -119,7 +119,7 @@
       {
         "name": "VISIBLE_VOLUME_PROFILE",
         "calcParams": [],
-        "visible": false,
+        "visible": true,
         "styles": null
       }
     ],
@@ -162,9 +162,10 @@
         "showPoc": true,
         "showValueArea": true,
         "showLabels": true,
-        "pocColor": "#ffcc7080",
+        "pocColor": "#e692f780",
         "levelColor": "#aabcda80",
-        "valueAreaColor": "#df9834a6"
+        "valueAreaColor": "#df9834a6",
+        "showDelta": true
       },
       "profile": {
         "type": "volumeDelta",
