@@ -97,7 +97,7 @@
         "calcParams": [
           1000000
         ],
-        "visible": false,
+        "visible": true,
         "styles": {
           "bubbleColors": [
             {
@@ -204,7 +204,7 @@
         "maxNotional": 0,
         "minQuantity": 1,
         "maxQuantity": 0,
-        "minContracts": 20,
+        "minContracts": 50,
         "maxContracts": 0,
         "minLots": 1,
         "maxLots": 0,
