@@ -148,6 +148,26 @@
         "imbalanceColor": "#e5cc24",
         "plotType": "bidAsk"
       },
+      "bubbles": {
+        "thresholdUnit": "contracts",
+        "maxNotional": 0,
+        "minQuantity": 1,
+        "maxQuantity": 0,
+        "minContracts": 50,
+        "maxContracts": 0,
+        "minLots": 1,
+        "maxLots": 0,
+        "marker": "circle",
+        "sizeByVolume": true,
+        "opacityByVolume": false,
+        "fixedRadius": 8,
+        "minRadius": 10,
+        "maxRadius": 40,
+        "hollow": false,
+        "showText": true,
+        "textColor": "#f2f5fa",
+        "maxBubbles": 1000
+      },
       "visibleProfile": {
         "placement": "right",
         "offset": 0,
@@ -198,26 +218,6 @@
         "showValues": false,
         "width": 100,
         "columnWidth": 200
-      },
-      "bubbles": {
-        "thresholdUnit": "contracts",
-        "maxNotional": 0,
-        "minQuantity": 1,
-        "maxQuantity": 0,
-        "minContracts": 50,
-        "maxContracts": 0,
-        "minLots": 1,
-        "maxLots": 0,
-        "marker": "circle",
-        "sizeByVolume": true,
-        "opacityByVolume": false,
-        "fixedRadius": 8,
-        "minRadius": 10,
-        "maxRadius": 40,
-        "hollow": false,
-        "showText": true,
-        "textColor": "#f2f5fa",
-        "maxBubbles": 1000
       }
     }
   }
