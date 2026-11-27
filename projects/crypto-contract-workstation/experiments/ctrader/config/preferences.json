@@ -89,7 +89,8 @@
             false,
             false,
             true
-          ]
+          ],
+          "showMidday": true
         }
       },
       {
