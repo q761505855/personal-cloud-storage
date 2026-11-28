@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "binanceRestBaseUrl": "https://fapi.binance.com",
-  "candleType": "new_york_cash",
+  "candleType": "candle_solid",
   "candleTransparency": 0,
   "showCandleHoverDetails": false,
   "pinnedPeriods": [
