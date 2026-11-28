@@ -12,7 +12,7 @@
     "4h",
     "1d"
   ],
-  "replayStepPeriod": "1d",
+  "replayStepPeriod": "2m",
   "showTradeOverlays": true,
   "chartWindowSize": {
     "width": 1100,
