@@ -61,7 +61,7 @@
       {
         "name": "CANDLE_VOLUME_PROFILE",
         "calcParams": [],
-        "visible": false,
+        "visible": true,
         "styles": null
       },
       {
